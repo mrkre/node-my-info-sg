@@ -71,5 +71,5 @@ yarn install
 
 ## Future Improvement
 
-1. Add unit tests and sensible linting rules
+1. Add unit tests 
 1. Pass this repository to the cool government guy, so they can maintain it
